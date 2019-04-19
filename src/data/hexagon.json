@@ -1,0 +1,69 @@
+{
+    "version": "1.0.0",
+    "data": [
+        {},{},{},{},
+
+
+        {
+            "img": "images/hexagon/bot_ceo.png",
+            "title": "Xiahong Lin / Founder of Bodhi",
+            "content": "Founder of Bodhi prediction market.<br/>Graduated in Statistical Machine Learning <br/>from Purdue University.<br/>Rich experience in development and <br/>crypto industry, has developed Twitter for Android."
+        },
+        {"img": "images/hexagon/blank.png"},
+        {
+            "img": "images/hexagon/Motoko.png",
+            "title": "Suou Eio / Economic Advisor of The Bank of Japan",
+            "content": "Graduated from University of Tokyo.<br/>Used to be an economic adviser<br/>to the Bank of Japan.<br/>Participating in the formulation of<br/>monetary policy of Japan."
+        },
+        {},
+
+
+        {"img": "images/hexagon/blank.png"},
+        {
+            "img": "images/hexagon/PatrickDai.png",
+            "title": "Patrick Dai / Founder of Qtum",
+            "content": "Dropout from the Chinese Academy of Sciences<br/>Used to work for Alibaba Group.<br/>Rich experience in the development<br/> of blockchain technology and management <br/>and striving to push the blockchain technology<br/>to mainstream at an early date"
+        },
+        {"img": "images/hexagon/blank.png"},
+        {
+            "img": "images/hexagon/JimDeWild.png",
+            "title": "Jim De Wild / Professor at McGill University",
+            "content": "Famous venture capitalist and management educator.<br/>Used to manage and invest over $5 billion.<br/>Doctor of political science and <br/>tenured professor at McGill University."
+        },
+
+
+        {"img": "images/hexagon/blank.png"},
+        {
+            "img": "images/hexagon/AlanWunsche.png",
+            "title":"Alan Wunsche / CEO of TokenFunder",
+            "content":"CEO & Chief Token Officer of TokenFunder.<br/>Finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution and innovation.<br/>Brings hands-on technology experience as a finance and risk transformation executive at a global bank, management consulting and startups."
+        },
+        {
+            "img": "images/hexagon/AlexMashinsky.png",
+            "title": "Alex Mashinsky / CEO of Celsius",
+            "content": "Early developer of VoIP protocol<br/>One of the leading evangelists of web-based exchanges <br/>Prominent entrepreneur who has founded several companies over the years, including GroundLink, Transit Wireless, Elematics and Arbinet"
+        },
+        {"img": "images/hexagon/blank.png"},
+
+        
+        {"img": "images/hexagon/blank.png"},
+
+        {
+            "img": "images/hexagon/ErnieEves.png",
+            "title": "Hon. Ernie Eves / Founder of GIC",
+            "content": "Founder and President of GIC group.<br/>Rich experience in investment and management.<br/>Has a very unique understanding and insight<br/>to the foreign exchange market,<br/>international trade and monetary policy"
+        },
+        {"img": "images/hexagon/blank.png"},
+        {"img": "images/hexagon/blank.png"},
+
+
+
+        {"img": "images/hexagon/blank.png"},
+        {"img": "images/hexagon/blank.png"},
+        {"img": "images/hexagon/blank.png"},
+        {},
+
+
+        {},{},{},{}
+    ]
+}
